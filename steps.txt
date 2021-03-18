@@ -1,0 +1,40 @@
+Doel: 
+
+- Verander Hello World naar Hello Students 
+- Alleen door JavaScript te gebruiken (geen html aanpassen)
+
+Stappen: 
+
+X Stap 0: Maak een javascript bestand, en koppel die aan je HTML bestand
+X Stap 1: Element selecteren dat je wil veranderen (Zoek iets op de pagina)
+X Stap 2: Sla het element op in een variabele
+X Stap 3: Pas het element (soort van JavaScript object aan) (Verander de data van het element)
+
+
+Doel: 
+
+- We hebben een object met text & sender
+- We willen dat object weergeven in als een email, in de browser (als html element)
+
+Stappen
+
+Stap 1: Maak een html element met JavaScript: <div></div>
+Stap 2: Voeg de content toe uit het object (de data): <div>Afzender: kees@kees.com</div>
+Stap 3: Selecteer een element uit de html pagina, waar de email moet worden weergeven
+Stap 4: "Plak" het nieuwe element op de pagina (append!)
+
+Doel: 
+
+- We willen knopje maken: delete emails
+- als we op het knopje drukken, dan verdwijnen alle emails
+
+X Stap 1: Maak een knopje 
+X Stap 2: Selecteer het knopje met JavaScript
+X Stap 3: Schrijf een functie, die moet uitgevoerd wanneer er geclickt wordt
+X Stap 4: Luister naar "click" events op het knopje
+X Stap 5: Verwijder de emails
+    - De emails selecteren -> inbox
+    - De emails verwijderen -> inbox.remove()
+
+
+

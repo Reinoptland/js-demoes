@@ -1,0 +1,44 @@
+Leerdoelen JavaScript Sessie 1
+
+- X Waar gebruik je JavaScript voor?
+	- interacties
+	- dynamische content
+- X Hoe schrijf je eerste javascript programma
+- X Hoe voer je je javascript programma uit in de terminal
+- X Welke soorten data kan je in JavaScript gebruiken
+    - string
+    - number
+    - boolean (true en false)
+    - undefined
+    - null
+- X Hoe sla je data op in variabelen
+- X Hoe kan je data transformeren met operators
+    - rekenen: +, -, *, /
+    - text: +, methods: toUpperCase()
+    - comperarisons: >, <, ===
+- X Hoe gebruik je een if / else statement
+    - je geeft een true of false aan een if statement
+    - de ene output of de andere output
+
+
+
+- X Wat zijn functies & waar heb je die voor nodig
+- X Wat is de syntax van functies
+- X Wat zijn verzamelingen en waarom heb je die nodig?
+
+Sessie 3
+
+- X Je weet wat een loop is en waar je een loop voor kan gebruiken
+- X Je weet hoe je een JavaScript bestand kan koppelen aan HTML
+- X Je weet hoe je elementen op de pagina kan selecteren met JavaScript
+- X Je weet hoe je een element op een pagina kan veranderen met JavaScript
+
+Sessie 4
+
+X 🔍 Elementen zoeken op de pagina
+X ✍️ De DOM aanpassen
+    X ⚡ Bestaande HTML elementen aanpassen: .textContent, style.color
+    X ☎️ Methodes van HTML elementen gebruiken .remove()
+    X 🆕 Nieuwe elementen maken document.createElement() & element.appendChild()
+👂 X Luisteren naar wat de gebruiker doet! addEventListener('click', )
+🎬 X Interacties programmeren: functie schrijven: addEventListener('click', mijnFunctie)
